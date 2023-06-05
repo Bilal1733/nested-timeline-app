@@ -83,13 +83,6 @@ const MainNavbar = () => {
                 Research Data Management
               </NavDropdown.Item>
             </NavDropdown>
-
-            <NavDropdown.Item href="#products">
-              Instance Administration
-            </NavDropdown.Item>
-            <NavDropdown.Item href="#resources">
-              Knowledge Base Management
-            </NavDropdown.Item>
           </NavDropdown>
         </Nav>
       </Navbar.Collapse>
